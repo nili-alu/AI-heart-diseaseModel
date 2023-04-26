@@ -4,7 +4,7 @@ Link of:
   ### model: https://drive.google.com/file/d/1sh6SfM91AhDIrTeCk7GCXeW23-einPdV/view?usp=share_link
   ### google colob: https://colab.research.google.com/drive/1PlamA8rS1J0eJo5ualTXwZCCtPSnRFl1?usp=sharing
   ### Deployed app: https://nili-alu-ai-heart-diseasemodel-streamapp-ut0ovl.streamlit.app/
-  ### video of how the app work: https://youtu.be/fsKOtkMUsd8
+  ### video of how the app work: https://www.youtube.com/watch?v=nV_CA3srCq4
 
 # how this manuel tested on local machine:
 
