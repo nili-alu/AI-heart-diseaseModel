@@ -1,12 +1,12 @@
  # AI-heart-diseaseModel
 
 Link of:
-  -#model: https://drive.google.com/file/d/1sh6SfM91AhDIrTeCk7GCXeW23-einPdV/view?usp=share_link
-  -#google colob: https://colab.research.google.com/drive/1PlamA8rS1J0eJo5ualTXwZCCtPSnRFl1?usp=sharing
-  -#Deployed app: https://nili-alu-ai-heart-diseasemodel-streamapp-ut0ovl.streamlit.app/
-  -# video of how the app work: 
+  ### model: https://drive.google.com/file/d/1sh6SfM91AhDIrTeCk7GCXeW23-einPdV/view?usp=share_link
+  ### google colob: https://colab.research.google.com/drive/1PlamA8rS1J0eJo5ualTXwZCCtPSnRFl1?usp=sharing
+  ### Deployed app: https://nili-alu-ai-heart-diseasemodel-streamapp-ut0ovl.streamlit.app/
+  ### video of how the app work: 
 
-#how this manuel tested on local machine:
+# how this manuel tested on local machine:
 
   1. git clone this repo
   2. open the cloned directory in editor(eg:Vscode or pycharm)
@@ -19,7 +19,7 @@ Link of:
 # how to host streamlit app
 there are many ways to host streamlit app on cloud, for me I used streamlit cloud
 
-steps to deploy app on streamlit
+#### steps to deploy app on streamlit
 
   1.create account on streamlit
   2. click on deploy app
