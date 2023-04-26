@@ -21,10 +21,10 @@ there are many ways to host streamlit app on cloud, for me I used streamlit clou
 
 #### steps to deploy app on streamlit
 
-  1.create account on streamlit
-  2. click on deploy app
-  3. select the repository you want to deploy
-  4. select a branch you want to deploy
-  5. type/select the main file path
-  6. click deploy
+  1. create account on streamlit
+  3. click on deploy app
+  4. select the repository you want to deploy
+  5. select a branch you want to deploy
+  6. type/select the main file path
+  7. click deploy
   
