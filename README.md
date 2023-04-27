@@ -5,6 +5,7 @@ Link of:
   ### google colob: https://colab.research.google.com/drive/1PlamA8rS1J0eJo5ualTXwZCCtPSnRFl1?usp=sharing
   ### Deployed app: https://nili-alu-ai-heart-diseasemodel-streamapp-ut0ovl.streamlit.app/
   ### video of how the app work: https://www.youtube.com/watch?v=nV_CA3srCq4
+  ## work contribution: https://docs.google.com/document/d/1HiL2rDi7IBH7h7Vu5SoRxyjyMOdWRyIaG-E19VxcBMY/edit?usp=sharing
 
 # how this manuel tested on local machine:
 
